@@ -1,0 +1,38 @@
+UwU-int var = 12
+print(var)
+
+
+UwU-def ola(): print('Hola Mundo')
+ola()
+
+
+UwU-if 1<9: print('uno') UwU-else: print('dos')
+
+
+UwU-for x UwU-range 4: print('jacy')
+
+
+
+
+
+                                           GRAMATICA
+
+Variables
+
+UwU-int x = 5
+UwU-float y = 9.8
+UwU-var name = "julio"
+
+
+
+If
+UwU-if 1<2: print('letras') UwU-else: print('letras')
+
+
+Def
+UwU-def mostrar(): print ('wenas')
+
+
+
+For
+UwU-for x UwU-range 3: print('buenos dias')
